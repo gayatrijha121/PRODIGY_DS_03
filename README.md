@@ -22,11 +22,3 @@ The project resulted in the development of decision tree classifiers using both 
 This project demonstrates the potential of machine learning models in predicting term deposit subscriptions in direct marketing campaigns. By leveraging predictive analytics, the banking institution can optimize its marketing strategies and enhance customer engagement.
 
 Thank you for reviewing my internship task submission!
-
-
-## Contact Information
-For any inquiries or feedback regarding this project, please contact:
-
-- <a href="https://www.linkedin.com/in/tufan-kundu-577945221/">Tufan Kundu (LinkedIn)</a>
-- Email: tufan.kundu11@gmail.com
-
